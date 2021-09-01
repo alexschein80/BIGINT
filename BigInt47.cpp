@@ -1,8 +1,6 @@
 
 /** Alexandre Schein
-* CECS 282 - 07
-* Program 4 - BigInt
-* 4/1/2019
+BigInt
 **/
 
 #include<string>
